@@ -1,0 +1,12 @@
+.thumbnail-container {
+	display: inline-block;
+	position: relative;
+	margin-right: 5px;
+}
+
+.image-delete {
+	display: block;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
