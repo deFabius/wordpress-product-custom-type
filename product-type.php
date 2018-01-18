@@ -210,4 +210,6 @@ function my_admin_styles() {
 
 add_action('admin_enqueue_scripts', 'my_admin_scripts');
 add_action('admin_enqueue_styles', 'my_admin_styles');
+
+require_once('product-widget.php');
 ?>
